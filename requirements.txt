@@ -1,0 +1,5 @@
+streamlit==1.40.2
+tensorflow==2.14.0  # Adjust to your TensorFlow version
+numpy==1.24.0
+pillow==9.3.0
+matplotlib==3.7.1
