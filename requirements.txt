@@ -1,5 +1,6 @@
+# Compatible Python 3.11 and Streamlit dependencies
 streamlit==1.40.2
-tensorflow==2.14.0  # Adjust to your TensorFlow version
+tensorflow==2.13.0
 numpy==1.24.0
 pillow==9.3.0
 matplotlib==3.7.1
